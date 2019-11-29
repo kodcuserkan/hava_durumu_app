@@ -1,3 +1,10 @@
+
+Çalıştırmadan önce kendi api keyinizi openweather.com dan alıp App.js de ki API_KEY e yapıştırıp çalıştırın.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
