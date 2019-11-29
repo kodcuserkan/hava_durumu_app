@@ -6,7 +6,7 @@ import "weather-icons/css/weather-icons.css"
 import Form from "./Components/form_components"
 import Notfounddiv from "./Components/notFound"
 
-const API_KEY = "4bf50a44b5e7f362f0d86291c240bec229";
+const API_KEY = "4bf50a44b5e7f362f0d86291c240bec229"; // KENDİ APİNİZİ KULLANIN!
 
 
 class App extends Component {
